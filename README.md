@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I’m Finn! 👋
 
-<!--
-**ColdDarkHusky/ColdDarkHusky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m 19 and super into tech! I love coding and figuring things out, especially when I can help others along the way. Right now, I’m getting into Linux and web development—always trying to learn something new.
 
-Here are some ideas to get you started:
+## 🌱 What I'm Learning
+- Linux (Arch)
+- Web Development (HTML, CSS, JavaScript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools I Use
+- Git & GitHub
+- VSCode
+- KDE (my go-to desktop environment)
+
+## 🎮 Hobbies
+- Playing Minecraft
+- Snapping photos of cool cars and nature
+- Jamming out to music
+
+Thanks for checking out my profile!
