@@ -1,19 +1,14 @@
-# Hey, I’m Finn! 👋
+# Hi, I’m Finn! 👋
 
-I’m 19 and super into tech! I love coding and figuring things out, especially when I can help others along the way. Right now, I’m getting into Linux and web development—always trying to learn something new.
+I’m a 19-year-old tech enthusiast diving into Linux (Arch) and web development. I enjoy learning and building projects that challenge my skills.
 
-## 🌱 What I'm Learning
-- Linux (Arch)
-- Web Development (HTML, CSS, JavaScript)
+## 🛠️ Skills
+- **Languages:** HTML, CSS, JavaScript
+- **Version Control:** Git & GitHub
+- **Operating Systems:** Linux (Arch)
 
-## 🔧 Tools I Use
-- Git & GitHub
-- VSCode
-- KDE (my go-to desktop environment)
-
-## 🎮 Hobbies
-- Playing Minecraft
-- Snapping photos of cool cars and nature
-- Jamming out to music
+## 📚 Currently Learning
+- Web development frameworks
+- Advanced Linux concepts
 
 Thanks for checking out my profile!
