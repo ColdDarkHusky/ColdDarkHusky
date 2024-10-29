@@ -3,7 +3,7 @@
 I’m 19 and really into tech. Right now, I’m diving into Linux (Arch) and web development. I love picking up new skills and working on fun projects.
 
 ## 🛠️ Skills
-- **Languages:** HTML, CSS, JavaScript
+- **Languages:** HTML, CSS, JavaScript, Kotlin, Java
 - **Version Control:** Git & GitHub
 - **Operating Systems:** Linux (Arch)
 
